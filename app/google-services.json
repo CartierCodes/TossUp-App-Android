@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687532814948",
+    "firebase_url": "https://csgo-app-c0921.firebaseio.com",
+    "project_id": "csgo-app-c0921",
+    "storage_bucket": "csgo-app-c0921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687532814948:android:02fa1a03e6974c5d79e571",
+        "android_client_info": {
+          "package_name": "com.carterburzlaff.TossUp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687532814948-tkt1e7m8bguc0vvujvls1pcu3c4pn5hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCfqhU1Seu7XKtUwpqgQbQPgX4QujMtas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687532814948-tkt1e7m8bguc0vvujvls1pcu3c4pn5hv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687532814948-b8lgbap7ge1411kukoemrik58dunuhhb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carterburzlaff.CSGO-Grenade-Companion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
